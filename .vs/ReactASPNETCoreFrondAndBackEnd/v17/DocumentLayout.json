@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|g:\\githubproject\\reactaspnetcorefrondandbackend\\reactaspnetcorefrondandbackend.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|solutionrelative:reactaspnetcorefrondandbackend.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|g:\\githubproject\\reactaspnetcorefrondandbackend\\reactaspnetcorefrondandbackend.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|solutionrelative:reactaspnetcorefrondandbackend.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|g:\\githubproject\\reactaspnetcorefrondandbackend\\reactaspnetcorefrondandbackend.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFAFBA79-7D67-4925-B889-7B2124F87B38}|reactaspnetcorefrondandbackend.client\\reactaspnetcorefrondandbackend.client.esproj|solutionrelative:reactaspnetcorefrondandbackend.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 187,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactaspnetcorefrondandbackend.client\\src\\App.jsx",
+              "ToolTip": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\src\\App.jsx",
+              "RelativeToolTip": "reactaspnetcorefrondandbackend.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-31T07:35:19.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\vite.config.js",
+              "RelativeDocumentMoniker": "reactaspnetcorefrondandbackend.client\\vite.config.js",
+              "ToolTip": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\vite.config.js",
+              "RelativeToolTip": "reactaspnetcorefrondandbackend.client\\vite.config.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-31T07:34:05.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\index.html",
+              "RelativeDocumentMoniker": "reactaspnetcorefrondandbackend.client\\index.html",
+              "ToolTip": "G:\\GitHubProject\\ReactASPNETCoreFrondAndBackEnd\\reactaspnetcorefrondandbackend.client\\index.html",
+              "RelativeToolTip": "reactaspnetcorefrondandbackend.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T07:33:53.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

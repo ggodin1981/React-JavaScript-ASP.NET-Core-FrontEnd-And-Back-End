@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReactASPNETCoreFrondAndBackEnd.Server.props" />
+</Project>

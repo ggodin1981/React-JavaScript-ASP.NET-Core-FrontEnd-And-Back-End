@@ -1,0 +1,1 @@
+G:\GitHubProject\ReactASPNETCoreFrondAndBackEnd\reactaspnetcorefrondandbackend.client\obj\Debug\reactaspnetcorefrondandbackend.client.esproj.CoreCompileInputs.cache
